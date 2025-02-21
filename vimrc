@@ -17,6 +17,7 @@ let g:lightline = {
 call plug#begin('~/.vim/plugged')
 Plug 'tomasiser/vim-code-dark'
 Plug 'itchyny/lightline.vim'
+Plug 'jiangmiao/auto-pairs'
 call plug#end()
 
 " settings for codedark plugin
